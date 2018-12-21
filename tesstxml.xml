@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<main>
+    <body>
+        <paragraph>
+            <section>Learning Sample for xsl-fo: </section>
+        </paragraph>
+        <paragraph>
+            <section>&lt;p&gt;&lt;strong&gt;Line1&lt;/strong&gt;&lt;/p&gt;&#xD;&lt;u&gt;Hi&lt;/u&gt;</section>
+        </paragraph>
+        <paragraph>
+            <section>&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#xD;</section>
+        </paragraph>
+        <paragraph>
+            <section>&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#xD;</section>
+        </paragraph>
+        <paragraph>
+            <section>&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#xD;</section>
+        </paragraph>
+        <paragraph>
+            <section>&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#xD;</section>
+        </paragraph>
+        <paragraph>
+            <section>&lt;p&gt;Line2&lt;/p&gt;&#xD;</section>
+        </paragraph>
+        <paragraph>
+            <section>&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#xD;</section>
+        </paragraph>
+        <paragraph>
+            <section>&lt;p&gt;Line3&lt;/p&gt;</section>
+        </paragraph>    
+    </body>
+    </main>
